@@ -1,0 +1,71 @@
+# Spanish translations for Advanced Name Search.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the Advanced Name Search project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Name Search\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-02-09 15:23+0100\n"
+"PO-Revision-Date: 2025-02-09 15:24+0100\n"
+"Last-Translator: Your Name <your_email@example.com>\n"
+"Language: es\n"
+"Language-Team: Spanish\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: app.py:...
+msgid "Advanced Name Search"
+msgstr "Búsqueda Avanzada de Nombres"
+
+#: app.py:...
+msgid "Error reading 'names.xlsx'. Please ensure the file exists and is valid."
+msgstr "Error al leer 'names.xlsx'. Por favor, asegúrese de que el archivo existe y es válido."
+
+#: app.py:...
+msgid "Number of Letters:"
+msgstr "Número de Letras:"
+
+#: app.py:...
+msgid "Length Condition:"
+msgstr "Condición de Longitud:"
+
+#: app.py:...
+msgid "Exact"
+msgstr "Exacto"
+
+#: app.py:...
+msgid "Less than or equal"
+msgstr "Menor o igual"
+
+#: app.py:...
+msgid "Greater than or equal"
+msgstr "Mayor o igual"
+
+#: app.py:...
+msgid "Search"
+msgstr "Buscar"
+
+#: app.py:...
+msgid "Results"
+msgstr "Resultados"
+
+#: app.py:...
+msgid "Name"
+msgstr "Nombre"
+
+#: app.py:...
+msgid "Frequency"
+msgstr "Frecuencia"
+
+#: app.py:...
+msgid "Country"
+msgstr "País"
+
+#: app.py:...
+msgid "No matching names found."
+msgstr "No se encontraron nombres coincidentes."
